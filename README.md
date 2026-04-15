@@ -1,41 +1,118 @@
-## Sweetbook Dev Environment
+# sweetbook
 
-### Stack
-- Backend: Python FastAPI (uvicorn, `/health` endpoint)
-- Frontend: React (Vite)
-- Orchestration: Docker Compose + VSCode Dev Container
+## 1. 서비스 소개
 
-### Prerequisites
-- Docker & Docker Compose
-- VSCode with Dev Containers extension (선택이지만 권장)
+AI 동화책 서비스는 사용자가 참고 이미지와 줄거리 프롬프트를 입력하면, AI가 스토리와 일러스트를 생성하고 이를 바탕으로 동화책의 제목, 표지, 내지를 자동 제작한 뒤 미리보기와 주문까지 지원하는 웹 서비스입니다.
 
-### How to Run (Docker Compose)
+### 타겟 고객
+
+- 어린 자녀를 둔 부모
+- 아이를 위한 맞춤형 동화책을 만들고 싶은 사용자
+- 책 제작에 관심 있는 일반 사용자
+
+### 주요 기능
+
+- 줄거리 프롬프트 및 참고 이미지 입력
+- AI 스토리 및 일러스트 생성
+- 책 제목, 표지, 내지 자동 구성
+- 완성된 결과물 미리보기
+- 주문 연계
+
+## 2. 실행 방법
+
+아래 순서대로 진행하면 프로젝트를 바로 실행할 수 있습니다.
+
+### 1. Docker 설치
+
+- Docker Desktop 또는 Docker Engine + Docker Compose가 설치되어 있어야 합니다.
+
+### 2. 환경변수 파일 생성
+
+`backend/.env.example` 파일을 복사해 `backend/.env` 파일을 생성한 뒤, Book Print Sandbox API Key를 입력합니다.
+
+macOS / Linux
+
 ```bash
-# 1. 환경변수 파일 설정
 cp backend/.env.example backend/.env
-# backend/.env 파일을 열어 BOOKPRINT_API_KEY 입력
-
-# 2. 실행
-docker compose up --build
 ```
+
+Windows PowerShell
+
+```powershell
+Copy-Item .\backend\.env.example .\backend\.env
+```
+
+`backend/.env`
+
+```env
+BOOKPRINT_API_KEY=your_sandbox_api_key
+BOOKPRINT_API_BASE_URL=https://api-sandbox.sweetbook.com/v1
+```
+
+### 3. 컨테이너 실행
+
+아래 명령어를 프로젝트 루트 폴더에서 실행합니다.
+
+```bash
+docker compose up -d --build
+```
+
+### 4. 실행 확인
+
+정상 실행되면 아래 주소로 접속해 동작을 확인할 수 있습니다.
 
 - Frontend: `http://localhost:5173`
-- Backend health: `http://localhost:8000/health`
+- Backend health check: `http://localhost:8000/health`
 
-### Dev Container (VSCode)
-1. VSCode에서 이 폴더를 엽니다.
-2. `Dev Containers: Reopen in Container` 명령을 실행합니다.
-3. 컨테이너 안에서 터미널을 열면 동일하게 `docker compose up --build`로 실행할 수 있습니다.
+### 5. 종료
 
-### Environment Variables
-- 실제 Book Print API 키는 `.env` 파일로 관리하고, GitHub에는 커밋하지 않습니다.
-- 예시 파일: `backend/.env.example`
+실행을 종료할 때는 아래 명령어를 사용합니다.
 
-사용 예시:
 ```bash
-cp backend/.env.example backend/.env
-# backend/.env 파일을 열어 BOOKPRINT_API_KEY를 Sandbox 키로 교체
+docker compose down
 ```
 
-백엔드 코드에서는 일반적인 방식으로 환경변수를 읽어 사용하면 됩니다.
+## 3. 사용한 API 목록
 
+프로젝트에서 실제 사용한 Book Print API 엔드포인트는 아래와 같습니다.
+
+| API                              | 용도                                                         |
+| -------------------------------- | ------------------------------------------------------------ |
+| `GET /templates/{templateUid}`   | 표지/내지 템플릿 상세 정보와 파라미터 정의를 조회할 때 사용  |
+| `POST /books`                    | 새 책을 생성할 때 사용                                       |
+| `POST /books/{uid}/photos`       | 사용자가 업로드한 사진을 책에 등록할 때 사용                 |
+| `POST /books/{uid}/cover`        | 선택한 템플릿과 입력값으로 표지를 생성할 때 사용             |
+| `POST /books/{uid}/contents`     | 템플릿, 텍스트, 사진 데이터를 바탕으로 내지를 생성할 때 사용 |
+| `POST /books/{uid}/finalization` | 표지와 내지 구성이 끝난 책을 최종 확정할 때 사용             |
+| `POST /orders/estimate`          | 주문 전 예상 금액을 계산할 때 사용                           |
+| `POST /orders`                   | 배송지 정보를 포함해 최종 주문을 생성할 때 사용              |
+
+## 4. AI 도구 사용 내역
+
+개발 과정에서 사용한 AI 도구와 활용 내용은 아래와 같습니다.
+
+| AI 도구     | 활용 내용                                                |
+| ----------- | -------------------------------------------------------- |
+| Claude Code | 프론트엔드와 백엔드 전반 구현                            |
+| ChatGPT     | 전반적인 코드 개발 보조, 배포 및 내용 정리               |
+| Gemini      | AI 동화책용 더미 데이터 생성, 예시 스토리 및 이미지 생성 |
+
+## 5. 설계 의도
+
+### 왜 이 서비스를 선택했는지
+
+AI 기술이 빠르게 일상에 들어오는 흐름 속에서, 앞으로는 정형화된 책보다 개인의 이야기와 취향이 반영된 맞춤형 콘텐츠 수요가 더 커질 것이라고 생각했습니다. 특히 동화책은 아이와 가족의 추억, 취향, 경험을 자연스럽게 녹여낼 수 있어 AI 기반 개인화 서비스와 잘 맞는 주제라고 판단해 이 서비스를 선택했습니다.
+
+### 이 서비스의 비즈니스 가능성을 어떻게 보는지
+
+맞춤형 동화책은 부모와 아이를 위한 선물, 추억 기록, 교육용 콘텐츠 등으로 확장 가능성이 높다고 생각합니다. 현재는 간단한 동화책 제작 흐름에 초점을 맞췄지만, 서비스를 더 고도화하면 특정 주제에 특화된 AI 전문 서적이나 개인 맞춤형 학습 콘텐츠 형태로도 발전할 수 있어 충분한 수요가 있다고 봅니다.
+
+### 더 시간이 있었다면 추가했을 기능
+
+- 실제 AI API를 연동해 스토리와 이미지를 실시간으로 생성하는 기능
+
+- 동화책 분위기나 주제에 따라 템플릿(테마)을 자동 추천하거나 선택 폭을 넓히는 기능
+
+- 템플릿 파라미터를 분석해, 사용자의 요청에 맞는 표지/내지 템플릿을 AI가 자동으로 생성하는 기능
+
+- 주문 내역 조회 및 이전 제작 결과를 다시 불러오는 기능
