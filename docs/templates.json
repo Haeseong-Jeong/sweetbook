@@ -1,0 +1,3732 @@
+{
+  "total": 148,
+  "bookSpecs": [
+    "SQUAREBOOK_HC",
+    "PHOTOBOOK_A4_SC",
+    "PHOTOBOOK_A5_SC"
+  ],
+  "bySpec": {
+    "SQUAREBOOK_HC": {
+      "content": [
+        {
+          "templateUid": "4slyauW5rkUE",
+          "templateName": "알림장B_내지_fill",
+          "theme": null,
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "3FhSEhJ94c0T",
+          "templateName": "내지a_contain",
+          "theme": "일기장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "y5Ih0Uo7tuQ3",
+          "templateName": "내지_gallery",
+          "theme": "일기장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "vHA59XPPKqak",
+          "templateName": "내지b",
+          "theme": "일기장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "6c2HU8tipz1l",
+          "templateName": "내지_gallery",
+          "theme": "일기장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "5B4ds6i0Rywx",
+          "templateName": "내지b",
+          "theme": "일기장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "2mi1ao0Z4Vxl",
+          "templateName": "빈내지",
+          "theme": "공용",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "2R8uMwVgTrpc",
+          "templateName": "내지a_cover",
+          "theme": "일기장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "46VqZhVNOfAp",
+          "templateName": "내지a",
+          "theme": "일기장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "6grRwZsJ0GJk",
+          "templateName": "빈내지",
+          "theme": "알림장C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "22cuXuCxZiD0",
+          "templateName": "내지_월시작",
+          "theme": "알림장C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "24i8WZm836UJ",
+          "templateName": "내지",
+          "theme": "알림장C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "1GtF7gRSeKAX",
+          "templateName": "빈내지",
+          "theme": "알림장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "1Tjgb7UpvetN",
+          "templateName": "내지_월시작",
+          "theme": "알림장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "2rSDdrabgqlr",
+          "templateName": "내지",
+          "theme": "알림장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "3tQ8WjQZOgId",
+          "templateName": "빈내지",
+          "theme": "알림장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "1aHHt1g7uHjw",
+          "templateName": "내지_월시작",
+          "theme": "알림장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "4OfPX6DXS0zU",
+          "templateName": "내지",
+          "theme": "알림장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "6dyq4m8nFCcd",
+          "templateName": "빈내지",
+          "theme": "구글포토북C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "79LHkH32MLH1",
+          "templateName": "내지_photo",
+          "theme": "구글포토북C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "4B0Nc4myZ17u",
+          "templateName": "내지_monthHeader",
+          "theme": "구글포토북C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "6qlvRxFJRX5q",
+          "templateName": "빈내지",
+          "theme": "구글포토북B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "6vUcK4Efowmh",
+          "templateName": "내지",
+          "theme": "구글포토북B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "1zWsJbGghVO4",
+          "templateName": "빈내지",
+          "theme": "구글포토북A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "3T09l6GEd0AL",
+          "templateName": "내지_dateB",
+          "theme": "구글포토북A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "1vuzMfUnCkXS",
+          "templateName": "내지_dateA",
+          "theme": "구글포토북A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        }
+      ],
+      "publish": [
+        {
+          "templateUid": "75vMl9IeyPMI",
+          "templateName": "발행면",
+          "theme": "일기장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "5nhOVBjTnIVE",
+          "templateName": "발행면",
+          "theme": "일기장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "6FvMytZPljyZ",
+          "templateName": "발행면",
+          "theme": "알림장C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "16CwXBtvmgVN",
+          "templateName": "발행면",
+          "theme": "알림장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "2DnDyL20yo5Y",
+          "templateName": "발행면",
+          "theme": "알림장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "5oRDpEfVerdC",
+          "templateName": "발행면",
+          "theme": "구글포토북C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "5LgRgkQPRofX",
+          "templateName": "발행면",
+          "theme": "구글포토북B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "6rXIB08mfqdb",
+          "templateName": "발행면",
+          "theme": "구글포토북A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        }
+      ],
+      "divider": [
+        {
+          "templateUid": "1N8i0MR6Ro1D",
+          "templateName": "간지",
+          "theme": "일기장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "5M3oo7GlWKGO",
+          "templateName": "간지",
+          "theme": "일기장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "7NlwVUuVzKLb",
+          "templateName": "간지",
+          "theme": "알림장C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "3s2cjqIuh1vi",
+          "templateName": "간지",
+          "theme": "알림장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "6UxZUzLqtdk2",
+          "templateName": "간지",
+          "theme": "알림장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "PorGJvT0oO7m",
+          "templateName": "간지",
+          "theme": "구글포토북C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "1VR1XHEuXuQx",
+          "templateName": "간지",
+          "theme": "구글포토북B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "1ulGtuGsatHD",
+          "templateName": "간지",
+          "theme": "구글포토북A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        }
+      ],
+      "cover": [
+        {
+          "templateUid": "4MY2fokVjkeY",
+          "templateName": "표지",
+          "theme": "일기장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "7ku8dliMDsch",
+          "templateName": "표지",
+          "theme": "알림장C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "idbMArRHrKTo",
+          "templateName": "표지",
+          "theme": "알림장B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "39kySqmyRhhs",
+          "templateName": "표지",
+          "theme": "알림장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "4Fy1mpIlm1ek",
+          "templateName": "표지",
+          "theme": "구글포토북C",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "6OhURGHdlI6y",
+          "templateName": "표지",
+          "theme": "구글포토북B",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "1Es0DP4oARn8",
+          "templateName": "표지",
+          "theme": "구글포토북A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        },
+        {
+          "templateUid": "79yjMH3qRPly",
+          "templateName": "표지",
+          "theme": "일기장A",
+          "bookSpecName": "고화질 스퀘어북 (하드커버)"
+        }
+      ]
+    },
+    "PHOTOBOOK_A4_SC": {
+      "cover": [
+        {
+          "templateUid": "75HruEK3EnG5",
+          "templateName": "표지 (A4 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "6u05eEoZWuTa",
+          "templateName": "표지 (A4 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "321icCUqkQTF",
+          "templateName": "표지 (A4 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3S1ceGaglj5i",
+          "templateName": "표지 (A4 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "41U3TvRGNqyU",
+          "templateName": "표지 (A4 소프트커버 포토북)",
+          "theme": "구글포토북B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "7CO28K1SttwL",
+          "templateName": "표지 (A4 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "31LOxBQzsVwo",
+          "templateName": "표지 (A4 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "4QNiQs0CmBNZ",
+          "templateName": "표지 (A4 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        }
+      ],
+      "content": [
+        {
+          "templateUid": "6Ly3CJrHodJv",
+          "templateName": "내지_월시작 (A4 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "msFsr6Ult7qw",
+          "templateName": "내지_gallery (A4 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "6YuhM8awvNsQ",
+          "templateName": "내지 (A4 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "4IIoG68v4M8I",
+          "templateName": "내지 (A4 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "YAIzgKC8ihEk",
+          "templateName": "내지_월시작 (A4 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5GrAypwGbUgI",
+          "templateName": "내지 (A4 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "2Ndy5Kgd8Oj5",
+          "templateName": "내지_월시작 (A4 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "2lpHl6oLAYss",
+          "templateName": "빈내지 (A4 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3nWJ4wtPSQOb",
+          "templateName": "내지a (A4 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3mjKd8kcaVzT",
+          "templateName": "내지b (A4 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "bclIBHO30JTf",
+          "templateName": "내지_gallery (A4 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "269L7PAwTUSS",
+          "templateName": "빈내지 (A4 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "6h1Zcwn00pGO",
+          "templateName": "빈내지 (A4 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5NxuQPBMyuTm",
+          "templateName": "빈내지 (A4 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5ADDkCtrodEJ",
+          "templateName": "내지_photo (A4 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "50f9kmXxelPG",
+          "templateName": "내지_monthHeader (A4 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "4XtQ9w9Qav9k",
+          "templateName": "빈내지 (A4 소프트커버 포토북)",
+          "theme": "구글포토북B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "eNxNlWKPdlZn",
+          "templateName": "내지 (A4 소프트커버 포토북)",
+          "theme": "구글포토북B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "73dHSfBDtnwk",
+          "templateName": "빈내지 (A4 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5NOAvNYRxKVM",
+          "templateName": "내지_dateB (A4 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "4UJiQc6ZJzvX",
+          "templateName": "내지_dateA (A4 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "4Bew6giLhZp6",
+          "templateName": "내지a_contain (A4 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "58edh76I0rYa",
+          "templateName": "내지a_cover (A4 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "2NnpiJDM5Dar",
+          "templateName": "내지b (A4 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "2WUTEnJr37gK",
+          "templateName": "빈내지 (A4 소프트커버 포토북)",
+          "theme": "공용",
+          "bookSpecName": "A4 소프트커버 포토북"
+        }
+      ],
+      "divider": [
+        {
+          "templateUid": "6Kl8dkYEWUe5",
+          "templateName": "간지 (A4 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "6dRCl3xzbTye",
+          "templateName": "간지 (A4 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3TDJhUL8jKkr",
+          "templateName": "간지 (A4 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3twLE6Jnlu7K",
+          "templateName": "간지 (A4 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "7QtrvhYN1dAY",
+          "templateName": "간지 (A4 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5k3KR55lByx6",
+          "templateName": "간지 (A4 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "6EX6eL5WAI7j",
+          "templateName": "간지 (A4 소프트커버 포토북)",
+          "theme": "구글포토북B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "48o7JhNQWUIM",
+          "templateName": "간지 (A4 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        }
+      ],
+      "publish": [
+        {
+          "templateUid": "2Cz5m6QKoMyD",
+          "templateName": "발행면 (A4 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5vaa1geP0KGU",
+          "templateName": "발행면 (A4 소프트커버 포토북)",
+          "theme": "구글포토북B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "gF2IiGYo7Xth",
+          "templateName": "발행면 (A4 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "4Ff5SSTfXEBf",
+          "templateName": "발행면 (A4 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3NMdp2bbaoVc",
+          "templateName": "발행면 (A4 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "oeksXaJFJgos",
+          "templateName": "발행면 (A4 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5PMFk04HGV9p",
+          "templateName": "발행면 (A4 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A4 소프트커버 포토북"
+        },
+        {
+          "templateUid": "f9Z3RYjgfGed",
+          "templateName": "발행면 (A4 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A4 소프트커버 포토북"
+        }
+      ]
+    },
+    "PHOTOBOOK_A5_SC": {
+      "cover": [
+        {
+          "templateUid": "40nimglmWLSh",
+          "templateName": "표지 (A5 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "2pmWxMXzE8Ko",
+          "templateName": "표지 (A5 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "2MpAdnBVd4rz",
+          "templateName": "표지 (A5 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "1dTGvR4NivrD",
+          "templateName": "표지 (A5 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "ZMO2mMvk3fin",
+          "templateName": "표지 (A5 소프트커버 포토북)",
+          "theme": "구글포토북B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3LOb3hWAxSjQ",
+          "templateName": "표지 (A5 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3sVKHg6kk7w0",
+          "templateName": "표지 (A5 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "71f3baDvjGkQ",
+          "templateName": "표지 (A5 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        }
+      ],
+      "content": [
+        {
+          "templateUid": "kEVfcU6Aa0Qo",
+          "templateName": "내지_월시작 (A5 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "ebGpPDmn6EJ5",
+          "templateName": "내지_gallery (A5 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "7o7MwAUT5qCY",
+          "templateName": "내지 (A5 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "1lAx3XrHlrTt",
+          "templateName": "내지 (A5 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "Bg9bEPX3zQll",
+          "templateName": "내지_월시작 (A5 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "4L7iSJfutQGm",
+          "templateName": "내지 (A5 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3A5rJSXRRUeT",
+          "templateName": "내지_월시작 (A5 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5u1tq5WzYsOO",
+          "templateName": "빈내지 (A5 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3EM5xgRpQhK1",
+          "templateName": "내지a (A5 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "6fWlpfO42nV3",
+          "templateName": "내지b (A5 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "79onaaAr56X7",
+          "templateName": "내지_gallery (A5 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "6MlSfJt0VwJT",
+          "templateName": "빈내지 (A5 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "cDbVR3GSFDE9",
+          "templateName": "빈내지 (A5 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "64CsbRzJ605v",
+          "templateName": "빈내지 (A5 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "1XtN1225R7wN",
+          "templateName": "내지_photo (A5 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "7kV0VVvWlwNI",
+          "templateName": "내지_monthHeader (A5 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3Xz7MBQWt9DE",
+          "templateName": "빈내지 (A5 소프트커버 포토북)",
+          "theme": "구글포토북B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "jZJCsrTDnTY0",
+          "templateName": "내지 (A5 소프트커버 포토북)",
+          "theme": "구글포토북B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "50kB7xCZFdtM",
+          "templateName": "빈내지 (A5 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "1UbWOuoHeNkF",
+          "templateName": "내지_dateB (A5 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5ZpsyEJW5PZW",
+          "templateName": "내지_dateA (A5 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "33b8MVBTO3Pg",
+          "templateName": "내지a_contain (A5 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "2qld1DLewXv9",
+          "templateName": "내지a_cover (A5 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3DGPZzdQwVKE",
+          "templateName": "내지b (A5 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3x6m83dbZ2CJ",
+          "templateName": "빈내지 (A5 소프트커버 포토북)",
+          "theme": "공용",
+          "bookSpecName": "A5 소프트커버 포토북"
+        }
+      ],
+      "divider": [
+        {
+          "templateUid": "1Uisr15RNxoS",
+          "templateName": "간지 (A5 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5GRVH4lbsF6S",
+          "templateName": "간지 (A5 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "sbGDAybBYmFW",
+          "templateName": "간지 (A5 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "26RCQXFJtQjv",
+          "templateName": "간지 (A5 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "4cHfCqGDt4Om",
+          "templateName": "간지 (A5 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "A3hF1947Peai",
+          "templateName": "간지 (A5 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "6HbTWzwxYt4k",
+          "templateName": "간지 (A5 소프트커버 포토북)",
+          "theme": "구글포토북B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "68GCAciqpxQ9",
+          "templateName": "간지 (A5 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        }
+      ],
+      "publish": [
+        {
+          "templateUid": "54gFTMRPNze9",
+          "templateName": "발행면 (A5 소프트커버 포토북)",
+          "theme": "일기장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3TILQjhuYnzc",
+          "templateName": "발행면 (A5 소프트커버 포토북)",
+          "theme": "구글포토북A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5dcJSrJirkwg",
+          "templateName": "발행면 (A5 소프트커버 포토북)",
+          "theme": "구글포토북B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "XLUnnML7A7uh",
+          "templateName": "발행면 (A5 소프트커버 포토북)",
+          "theme": "구글포토북C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "4gndW41ZfL2b",
+          "templateName": "발행면 (A5 소프트커버 포토북)",
+          "theme": "알림장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "3yZSoPNDtT6K",
+          "templateName": "발행면 (A5 소프트커버 포토북)",
+          "theme": "알림장B",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "5khQmlu7sJLw",
+          "templateName": "발행면 (A5 소프트커버 포토북)",
+          "theme": "알림장C",
+          "bookSpecName": "A5 소프트커버 포토북"
+        },
+        {
+          "templateUid": "1rtPU5vhxw1Z",
+          "templateName": "발행면 (A5 소프트커버 포토북)",
+          "theme": "일기장A",
+          "bookSpecName": "A5 소프트커버 포토북"
+        }
+      ]
+    }
+  },
+  "all": [
+    {
+      "templateUid": "4slyauW5rkUE",
+      "accountUid": "public",
+      "templateName": "알림장B_내지_fill",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": null,
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-25T07:59:27.013Z",
+      "updatedAt": "2026-04-08T07:29:21.341Z"
+    },
+    {
+      "templateUid": "75HruEK3EnG5",
+      "accountUid": "public",
+      "templateName": "표지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:43:39.932Z",
+      "updatedAt": "2026-03-20T07:35:31.572Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/75HruEK3EnG5/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "40nimglmWLSh",
+      "accountUid": "public",
+      "templateName": "표지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:42:48.534Z",
+      "updatedAt": "2026-03-20T07:35:31.652Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/40nimglmWLSh/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "2pmWxMXzE8Ko",
+      "accountUid": "public",
+      "templateName": "표지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:41:22.468Z",
+      "updatedAt": "2026-03-20T07:35:32.987Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/2pmWxMXzE8Ko/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6u05eEoZWuTa",
+      "accountUid": "public",
+      "templateName": "표지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:41:09.392Z",
+      "updatedAt": "2026-03-20T07:35:32.914Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6u05eEoZWuTa/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "321icCUqkQTF",
+      "accountUid": "public",
+      "templateName": "표지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:40:50.093Z",
+      "updatedAt": "2026-03-20T07:35:34.367Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/321icCUqkQTF/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "2MpAdnBVd4rz",
+      "accountUid": "public",
+      "templateName": "표지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:40:30.438Z",
+      "updatedAt": "2026-03-20T07:35:34.401Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/2MpAdnBVd4rz/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "kEVfcU6Aa0Qo",
+      "accountUid": "public",
+      "templateName": "내지_월시작 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:39:41.918Z",
+      "updatedAt": "2026-03-20T05:24:33.270Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/kEVfcU6Aa0Qo/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6Ly3CJrHodJv",
+      "accountUid": "public",
+      "templateName": "내지_월시작 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:39:32.259Z",
+      "updatedAt": "2026-03-20T05:24:33.237Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6Ly3CJrHodJv/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "ebGpPDmn6EJ5",
+      "accountUid": "public",
+      "templateName": "내지_gallery (A5 소프트커버 포토북)",
+      "description": "일기장A - 사진만 있는 경우 / 콜라주 갤러리 (단면: 수직띠+dayNum+콜라주)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:39:17.225Z",
+      "updatedAt": "2026-03-20T05:24:35.395Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/ebGpPDmn6EJ5/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "msFsr6Ult7qw",
+      "accountUid": "public",
+      "templateName": "내지_gallery (A4 소프트커버 포토북)",
+      "description": "일기장A - 사진만 있는 경우 / 콜라주 갤러리 (단면: 수직띠+dayNum+콜라주)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:38:45.874Z",
+      "updatedAt": "2026-03-20T05:24:35.352Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/msFsr6Ult7qw/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "7o7MwAUT5qCY",
+      "accountUid": "public",
+      "templateName": "내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:37:42.474Z",
+      "updatedAt": "2026-03-20T07:35:30.992Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/7o7MwAUT5qCY/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6YuhM8awvNsQ",
+      "accountUid": "public",
+      "templateName": "내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:37:32.708Z",
+      "updatedAt": "2026-03-20T07:35:30.906Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6YuhM8awvNsQ/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1lAx3XrHlrTt",
+      "accountUid": "public",
+      "templateName": "내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:36:54.294Z",
+      "updatedAt": "2026-03-20T07:35:32.072Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1lAx3XrHlrTt/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4IIoG68v4M8I",
+      "accountUid": "public",
+      "templateName": "내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:36:45.090Z",
+      "updatedAt": "2026-03-20T07:35:31.992Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4IIoG68v4M8I/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "Bg9bEPX3zQll",
+      "accountUid": "public",
+      "templateName": "내지_월시작 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:36:33.666Z",
+      "updatedAt": "2026-03-20T07:35:32.283Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/Bg9bEPX3zQll/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "YAIzgKC8ihEk",
+      "accountUid": "public",
+      "templateName": "내지_월시작 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:36:23.004Z",
+      "updatedAt": "2026-03-20T07:35:32.239Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/YAIzgKC8ihEk/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4L7iSJfutQGm",
+      "accountUid": "public",
+      "templateName": "내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:36:06.862Z",
+      "updatedAt": "2026-03-20T07:35:33.439Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4L7iSJfutQGm/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5GrAypwGbUgI",
+      "accountUid": "public",
+      "templateName": "내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:35:56.085Z",
+      "updatedAt": "2026-03-20T07:35:33.363Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5GrAypwGbUgI/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3A5rJSXRRUeT",
+      "accountUid": "public",
+      "templateName": "내지_월시작 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:35:42.004Z",
+      "updatedAt": "2026-03-20T07:35:33.687Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3A5rJSXRRUeT/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "2Ndy5Kgd8Oj5",
+      "accountUid": "public",
+      "templateName": "내지_월시작 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:35:31.047Z",
+      "updatedAt": "2026-03-20T07:35:33.625Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/2Ndy5Kgd8Oj5/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5u1tq5WzYsOO",
+      "accountUid": "public",
+      "templateName": "빈내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:35:14.333Z",
+      "updatedAt": "2026-03-20T07:35:34.250Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5u1tq5WzYsOO/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "2lpHl6oLAYss",
+      "accountUid": "public",
+      "templateName": "빈내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:35:13.578Z",
+      "updatedAt": "2026-03-20T07:35:34.206Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/2lpHl6oLAYss/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3EM5xgRpQhK1",
+      "accountUid": "public",
+      "templateName": "내지a (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:35:03.660Z",
+      "updatedAt": "2026-03-20T05:24:35.517Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3EM5xgRpQhK1/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3nWJ4wtPSQOb",
+      "accountUid": "public",
+      "templateName": "내지a (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:35:02.985Z",
+      "updatedAt": "2026-03-20T05:24:35.474Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3nWJ4wtPSQOb/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6fWlpfO42nV3",
+      "accountUid": "public",
+      "templateName": "내지b (A5 소프트커버 포토북)",
+      "description": "일기장A - 내지a 우측 (단면: 수직띠+일번호+일기본문 연속)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:34:53.520Z",
+      "updatedAt": "2026-03-20T05:24:35.635Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6fWlpfO42nV3/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3mjKd8kcaVzT",
+      "accountUid": "public",
+      "templateName": "내지b (A4 소프트커버 포토북)",
+      "description": "일기장A - 내지a 우측 (단면: 수직띠+일번호+일기본문 연속)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:34:28.601Z",
+      "updatedAt": "2026-03-20T05:24:35.592Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3mjKd8kcaVzT/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "79onaaAr56X7",
+      "accountUid": "public",
+      "templateName": "내지_gallery (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:32:28.487Z",
+      "updatedAt": "2026-03-20T07:35:35.179Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/79onaaAr56X7/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "bclIBHO30JTf",
+      "accountUid": "public",
+      "templateName": "내지_gallery (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T07:32:24.990Z",
+      "updatedAt": "2026-03-20T07:35:35.126Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/bclIBHO30JTf/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6MlSfJt0VwJT",
+      "accountUid": "public",
+      "templateName": "빈내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:52:29.342Z",
+      "updatedAt": "2026-03-20T07:35:32.775Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6MlSfJt0VwJT/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "269L7PAwTUSS",
+      "accountUid": "public",
+      "templateName": "빈내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:52:28.517Z",
+      "updatedAt": "2026-03-20T07:35:32.731Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/269L7PAwTUSS/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "cDbVR3GSFDE9",
+      "accountUid": "public",
+      "templateName": "빈내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:52:19.443Z",
+      "updatedAt": "2026-03-20T07:35:31.444Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/cDbVR3GSFDE9/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6h1Zcwn00pGO",
+      "accountUid": "public",
+      "templateName": "빈내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:52:18.562Z",
+      "updatedAt": "2026-03-20T07:35:31.369Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6h1Zcwn00pGO/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "64CsbRzJ605v",
+      "accountUid": "public",
+      "templateName": "빈내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:52:09.906Z",
+      "updatedAt": "2026-03-20T07:35:30.263Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/64CsbRzJ605v/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5NxuQPBMyuTm",
+      "accountUid": "public",
+      "templateName": "빈내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:52:08.851Z",
+      "updatedAt": "2026-03-20T07:35:30.225Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5NxuQPBMyuTm/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1XtN1225R7wN",
+      "accountUid": "public",
+      "templateName": "내지_photo (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:52:05.186Z",
+      "updatedAt": "2026-03-20T05:24:32.523Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1XtN1225R7wN/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5ADDkCtrodEJ",
+      "accountUid": "public",
+      "templateName": "내지_photo (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:52:04.046Z",
+      "updatedAt": "2026-03-20T05:24:32.488Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5ADDkCtrodEJ/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "7kV0VVvWlwNI",
+      "accountUid": "public",
+      "templateName": "내지_monthHeader (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:59.392Z",
+      "updatedAt": "2026-03-20T05:24:32.404Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/7kV0VVvWlwNI/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "50f9kmXxelPG",
+      "accountUid": "public",
+      "templateName": "내지_monthHeader (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:58.677Z",
+      "updatedAt": "2026-03-20T05:24:32.365Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/50f9kmXxelPG/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3Xz7MBQWt9DE",
+      "accountUid": "public",
+      "templateName": "빈내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:54.975Z",
+      "updatedAt": "2026-03-20T07:35:29.344Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3Xz7MBQWt9DE/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4XtQ9w9Qav9k",
+      "accountUid": "public",
+      "templateName": "빈내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:54.226Z",
+      "updatedAt": "2026-03-20T07:35:29.288Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4XtQ9w9Qav9k/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "jZJCsrTDnTY0",
+      "accountUid": "public",
+      "templateName": "내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:51.140Z",
+      "updatedAt": "2026-03-20T05:24:31.848Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/jZJCsrTDnTY0/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "eNxNlWKPdlZn",
+      "accountUid": "public",
+      "templateName": "내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:50.409Z",
+      "updatedAt": "2026-03-20T05:24:31.814Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/eNxNlWKPdlZn/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "50kB7xCZFdtM",
+      "accountUid": "public",
+      "templateName": "빈내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:45.895Z",
+      "updatedAt": "2026-03-20T07:35:28.688Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/50kB7xCZFdtM/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "73dHSfBDtnwk",
+      "accountUid": "public",
+      "templateName": "빈내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:45.189Z",
+      "updatedAt": "2026-03-20T07:35:28.626Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/73dHSfBDtnwk/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1UbWOuoHeNkF",
+      "accountUid": "public",
+      "templateName": "내지_dateB (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:40.056Z",
+      "updatedAt": "2026-03-20T05:24:31.252Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1UbWOuoHeNkF/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5NOAvNYRxKVM",
+      "accountUid": "public",
+      "templateName": "내지_dateB (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:39.278Z",
+      "updatedAt": "2026-03-20T05:24:31.211Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5NOAvNYRxKVM/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5ZpsyEJW5PZW",
+      "accountUid": "public",
+      "templateName": "내지_dateA (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:34.793Z",
+      "updatedAt": "2026-03-20T05:24:31.127Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5ZpsyEJW5PZW/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4UJiQc6ZJzvX",
+      "accountUid": "public",
+      "templateName": "내지_dateA (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:51:34.077Z",
+      "updatedAt": "2026-03-20T05:24:31.082Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4UJiQc6ZJzvX/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "33b8MVBTO3Pg",
+      "accountUid": "public",
+      "templateName": "내지a_contain (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:50:21.769Z",
+      "updatedAt": "2026-03-20T05:24:36.281Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/33b8MVBTO3Pg/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4Bew6giLhZp6",
+      "accountUid": "public",
+      "templateName": "내지a_contain (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:50:20.741Z",
+      "updatedAt": "2026-03-20T05:24:36.234Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4Bew6giLhZp6/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "2qld1DLewXv9",
+      "accountUid": "public",
+      "templateName": "내지a_cover (A5 소프트커버 포토북)",
+      "description": "일기장B - 내지a 좌측 (단면: 전체사진+날짜+제목+일기본문)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:50:15.864Z",
+      "updatedAt": "2026-03-20T05:24:36.407Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/2qld1DLewXv9/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "58edh76I0rYa",
+      "accountUid": "public",
+      "templateName": "내지a_cover (A4 소프트커버 포토북)",
+      "description": "일기장B - 내지a 좌측 (단면: 전체사진+날짜+제목+일기본문)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:50:14.852Z",
+      "updatedAt": "2026-03-20T05:24:36.359Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/58edh76I0rYa/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3DGPZzdQwVKE",
+      "accountUid": "public",
+      "templateName": "내지b (A5 소프트커버 포토북)",
+      "description": "일기장B - 내지b 좌측 (단면: 날짜+제목+긴 본문)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:50:03.982Z",
+      "updatedAt": "2026-03-20T07:35:35.310Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3DGPZzdQwVKE/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "2NnpiJDM5Dar",
+      "accountUid": "public",
+      "templateName": "내지b (A4 소프트커버 포토북)",
+      "description": "일기장B - 내지b 좌측 (단면: 날짜+제목+긴 본문)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:50:03.131Z",
+      "updatedAt": "2026-03-20T07:35:35.260Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/2NnpiJDM5Dar/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3x6m83dbZ2CJ",
+      "accountUid": "public",
+      "templateName": "빈내지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "공용",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:49:46.500Z",
+      "updatedAt": "2026-03-20T05:24:30.873Z"
+    },
+    {
+      "templateUid": "2WUTEnJr37gK",
+      "accountUid": "public",
+      "templateName": "빈내지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "공용",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:49:44.990Z",
+      "updatedAt": "2026-03-20T05:24:30.832Z"
+    },
+    {
+      "templateUid": "1dTGvR4NivrD",
+      "accountUid": "public",
+      "templateName": "표지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:49:27.837Z",
+      "updatedAt": "2026-03-20T05:24:31.650Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1dTGvR4NivrD/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3S1ceGaglj5i",
+      "accountUid": "public",
+      "templateName": "표지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:49:26.572Z",
+      "updatedAt": "2026-03-20T05:24:31.604Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3S1ceGaglj5i/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "ZMO2mMvk3fin",
+      "accountUid": "public",
+      "templateName": "표지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:49:19.519Z",
+      "updatedAt": "2026-03-20T07:35:29.545Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/ZMO2mMvk3fin/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "41U3TvRGNqyU",
+      "accountUid": "public",
+      "templateName": "표지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:49:18.153Z",
+      "updatedAt": "2026-03-20T07:35:29.477Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/41U3TvRGNqyU/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3LOb3hWAxSjQ",
+      "accountUid": "public",
+      "templateName": "표지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:49:13.431Z",
+      "updatedAt": "2026-03-20T07:35:30.480Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3LOb3hWAxSjQ/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "7CO28K1SttwL",
+      "accountUid": "public",
+      "templateName": "표지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:49:11.677Z",
+      "updatedAt": "2026-03-20T07:35:30.384Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/7CO28K1SttwL/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3sVKHg6kk7w0",
+      "accountUid": "public",
+      "templateName": "표지 (A5 소프트커버 포토북)",
+      "description": "일기장A - 표지 (따뜻한 taupe #9A9088 배경, NanumMyeongjo 세리프, 앞표지 사진 1장)",
+      "templateKind": "cover",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:49:00.722Z",
+      "updatedAt": "2026-03-20T07:35:34.895Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3sVKHg6kk7w0/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "31LOxBQzsVwo",
+      "accountUid": "public",
+      "templateName": "표지 (A4 소프트커버 포토북)",
+      "description": "일기장A - 표지 (따뜻한 taupe #9A9088 배경, NanumMyeongjo 세리프, 앞표지 사진 1장)",
+      "templateKind": "cover",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:48:59.540Z",
+      "updatedAt": "2026-03-20T07:35:34.845Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/31LOxBQzsVwo/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "71f3baDvjGkQ",
+      "accountUid": "public",
+      "templateName": "표지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:48:51.547Z",
+      "updatedAt": "2026-03-20T07:35:35.642Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/71f3baDvjGkQ/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4QNiQs0CmBNZ",
+      "accountUid": "public",
+      "templateName": "표지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:48:50.040Z",
+      "updatedAt": "2026-03-20T07:35:35.595Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4QNiQs0CmBNZ/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1Uisr15RNxoS",
+      "accountUid": "public",
+      "templateName": "간지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:48:37.173Z",
+      "updatedAt": "2026-03-20T07:35:35.033Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1Uisr15RNxoS/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6Kl8dkYEWUe5",
+      "accountUid": "public",
+      "templateName": "간지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:48:35.018Z",
+      "updatedAt": "2026-03-20T07:35:34.984Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6Kl8dkYEWUe5/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5GRVH4lbsF6S",
+      "accountUid": "public",
+      "templateName": "간지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:48:31.868Z",
+      "updatedAt": "2026-03-20T07:35:34.612Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5GRVH4lbsF6S/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6dRCl3xzbTye",
+      "accountUid": "public",
+      "templateName": "간지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:48:30.235Z",
+      "updatedAt": "2026-03-20T07:35:34.579Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6dRCl3xzbTye/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "sbGDAybBYmFW",
+      "accountUid": "public",
+      "templateName": "간지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:48:25.837Z",
+      "updatedAt": "2026-03-20T07:35:33.242Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/sbGDAybBYmFW/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3TDJhUL8jKkr",
+      "accountUid": "public",
+      "templateName": "간지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:48:23.287Z",
+      "updatedAt": "2026-03-20T07:35:33.121Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3TDJhUL8jKkr/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "54gFTMRPNze9",
+      "accountUid": "public",
+      "templateName": "발행면 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:48:18.111Z",
+      "updatedAt": "2026-03-20T07:35:35.474Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/54gFTMRPNze9/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "26RCQXFJtQjv",
+      "accountUid": "public",
+      "templateName": "간지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:33:24.271Z",
+      "updatedAt": "2026-03-20T07:35:31.825Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/26RCQXFJtQjv/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3twLE6Jnlu7K",
+      "accountUid": "public",
+      "templateName": "간지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:33:22.437Z",
+      "updatedAt": "2026-03-20T07:35:31.780Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3twLE6Jnlu7K/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4cHfCqGDt4Om",
+      "accountUid": "public",
+      "templateName": "간지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:33:15.295Z",
+      "updatedAt": "2026-03-20T07:35:30.678Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4cHfCqGDt4Om/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "7QtrvhYN1dAY",
+      "accountUid": "public",
+      "templateName": "간지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:33:13.277Z",
+      "updatedAt": "2026-03-20T07:35:30.635Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/7QtrvhYN1dAY/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "A3hF1947Peai",
+      "accountUid": "public",
+      "templateName": "간지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:33:07.584Z",
+      "updatedAt": "2026-03-20T07:35:29.811Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/A3hF1947Peai/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5k3KR55lByx6",
+      "accountUid": "public",
+      "templateName": "간지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:33:05.992Z",
+      "updatedAt": "2026-03-20T07:35:29.763Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5k3KR55lByx6/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6HbTWzwxYt4k",
+      "accountUid": "public",
+      "templateName": "간지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:32:54.978Z",
+      "updatedAt": "2026-03-20T07:35:28.946Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6HbTWzwxYt4k/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6EX6eL5WAI7j",
+      "accountUid": "public",
+      "templateName": "간지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:32:52.883Z",
+      "updatedAt": "2026-03-20T07:35:28.796Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6EX6eL5WAI7j/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "68GCAciqpxQ9",
+      "accountUid": "public",
+      "templateName": "간지 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:32:46.221Z",
+      "updatedAt": "2026-03-20T05:24:31.006Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/68GCAciqpxQ9/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "48o7JhNQWUIM",
+      "accountUid": "public",
+      "templateName": "간지 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:32:44.488Z",
+      "updatedAt": "2026-03-20T05:24:30.955Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/48o7JhNQWUIM/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3TILQjhuYnzc",
+      "accountUid": "public",
+      "templateName": "발행면 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:59.391Z",
+      "updatedAt": "2026-03-20T05:24:31.375Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3TILQjhuYnzc/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "2Cz5m6QKoMyD",
+      "accountUid": "public",
+      "templateName": "발행면 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:57.470Z",
+      "updatedAt": "2026-03-20T05:24:31.334Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/2Cz5m6QKoMyD/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5dcJSrJirkwg",
+      "accountUid": "public",
+      "templateName": "발행면 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:52.728Z",
+      "updatedAt": "2026-03-20T07:35:29.159Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5dcJSrJirkwg/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5vaa1geP0KGU",
+      "accountUid": "public",
+      "templateName": "발행면 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:50.580Z",
+      "updatedAt": "2026-03-20T07:35:29.087Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5vaa1geP0KGU/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "XLUnnML7A7uh",
+      "accountUid": "public",
+      "templateName": "발행면 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:44.467Z",
+      "updatedAt": "2026-03-20T07:35:30.022Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/XLUnnML7A7uh/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "gF2IiGYo7Xth",
+      "accountUid": "public",
+      "templateName": "발행면 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:41.837Z",
+      "updatedAt": "2026-03-20T07:35:29.943Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/gF2IiGYo7Xth/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4gndW41ZfL2b",
+      "accountUid": "public",
+      "templateName": "발행면 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:33.152Z",
+      "updatedAt": "2026-03-20T07:35:31.210Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4gndW41ZfL2b/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4Ff5SSTfXEBf",
+      "accountUid": "public",
+      "templateName": "발행면 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:30.369Z",
+      "updatedAt": "2026-03-20T07:35:31.169Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4Ff5SSTfXEBf/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3yZSoPNDtT6K",
+      "accountUid": "public",
+      "templateName": "발행면 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:19.071Z",
+      "updatedAt": "2026-03-20T07:35:32.575Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3yZSoPNDtT6K/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3NMdp2bbaoVc",
+      "accountUid": "public",
+      "templateName": "발행면 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:16.669Z",
+      "updatedAt": "2026-03-20T07:35:32.488Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3NMdp2bbaoVc/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5khQmlu7sJLw",
+      "accountUid": "public",
+      "templateName": "발행면 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:09.248Z",
+      "updatedAt": "2026-03-20T07:35:33.954Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5khQmlu7sJLw/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "oeksXaJFJgos",
+      "accountUid": "public",
+      "templateName": "발행면 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:08.360Z",
+      "updatedAt": "2026-03-20T07:35:33.899Z"
+    },
+    {
+      "templateUid": "1rtPU5vhxw1Z",
+      "accountUid": "public",
+      "templateName": "발행면 (A5 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A5_SC",
+      "bookSpecName": "A5 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:31:00.685Z",
+      "updatedAt": "2026-03-20T07:35:34.737Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1rtPU5vhxw1Z/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5PMFk04HGV9p",
+      "accountUid": "public",
+      "templateName": "발행면 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-17T06:30:57.581Z",
+      "updatedAt": "2026-03-20T07:35:34.687Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5PMFk04HGV9p/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "f9Z3RYjgfGed",
+      "accountUid": "public",
+      "templateName": "발행면 (A4 소프트커버 포토북)",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "PHOTOBOOK_A4_SC",
+      "bookSpecName": "A4 소프트커버 포토북",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-16T10:57:08.283Z",
+      "updatedAt": "2026-03-20T07:35:35.395Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/f9Z3RYjgfGed/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3FhSEhJ94c0T",
+      "accountUid": "public",
+      "templateName": "내지a_contain",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-13T04:37:35.024Z",
+      "updatedAt": "2026-03-20T05:24:36.195Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3FhSEhJ94c0T/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "75vMl9IeyPMI",
+      "accountUid": "public",
+      "templateName": "발행면",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:03:30.646Z",
+      "updatedAt": "2026-03-20T07:35:35.351Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/75vMl9IeyPMI/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "y5Ih0Uo7tuQ3",
+      "accountUid": "public",
+      "templateName": "내지_gallery",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:03:30.542Z",
+      "updatedAt": "2026-03-20T07:35:35.071Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/y5Ih0Uo7tuQ3/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "vHA59XPPKqak",
+      "accountUid": "public",
+      "templateName": "내지b",
+      "description": "일기장B - 내지b 좌측 (단면: 날짜+제목+긴 본문)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:03:30.470Z",
+      "updatedAt": "2026-03-20T07:35:35.215Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/vHA59XPPKqak/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5nhOVBjTnIVE",
+      "accountUid": "public",
+      "templateName": "발행면",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:03:29.386Z",
+      "updatedAt": "2026-03-20T07:35:34.645Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5nhOVBjTnIVE/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6c2HU8tipz1l",
+      "accountUid": "public",
+      "templateName": "내지_gallery",
+      "description": "일기장A - 사진만 있는 경우 / 콜라주 갤러리 (단면: 수직띠+dayNum+콜라주)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:03:29.257Z",
+      "updatedAt": "2026-03-20T05:24:35.320Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6c2HU8tipz1l/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5B4ds6i0Rywx",
+      "accountUid": "public",
+      "templateName": "내지b",
+      "description": "일기장A - 내지a 우측 (단면: 수직띠+일번호+일기본문 연속)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:03:29.165Z",
+      "updatedAt": "2026-03-20T05:24:35.556Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5B4ds6i0Rywx/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "2mi1ao0Z4Vxl",
+      "accountUid": "public",
+      "templateName": "빈내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "공용",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:31.145Z",
+      "updatedAt": "2026-03-26T07:03:11.421Z",
+      "thumbnails": {
+        "baseLayerEven": "https://api-sandbox.sweetbook.com/templates_thumb/2mi1ao0Z4Vxl/base_layer_even.png"
+      }
+    },
+    {
+      "templateUid": "2R8uMwVgTrpc",
+      "accountUid": "public",
+      "templateName": "내지a_cover",
+      "description": "일기장B - 내지a 좌측 (단면: 전체사진+날짜+제목+일기본문)",
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:31.106Z",
+      "updatedAt": "2026-03-20T05:24:36.321Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/2R8uMwVgTrpc/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1N8i0MR6Ro1D",
+      "accountUid": "public",
+      "templateName": "간지",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:31.007Z",
+      "updatedAt": "2026-03-20T07:35:34.941Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1N8i0MR6Ro1D/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4MY2fokVjkeY",
+      "accountUid": "public",
+      "templateName": "표지",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "일기장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:30.922Z",
+      "updatedAt": "2026-03-20T07:35:35.537Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4MY2fokVjkeY/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "46VqZhVNOfAp",
+      "accountUid": "public",
+      "templateName": "내지a",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:30.794Z",
+      "updatedAt": "2026-03-20T05:24:35.433Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/46VqZhVNOfAp/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5M3oo7GlWKGO",
+      "accountUid": "public",
+      "templateName": "간지",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:30.694Z",
+      "updatedAt": "2026-03-20T07:35:34.505Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5M3oo7GlWKGO/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6grRwZsJ0GJk",
+      "accountUid": "public",
+      "templateName": "빈내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:30.283Z",
+      "updatedAt": "2026-03-20T07:35:34.104Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6grRwZsJ0GJk/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6FvMytZPljyZ",
+      "accountUid": "public",
+      "templateName": "발행면",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:30.179Z",
+      "updatedAt": "2026-03-20T07:35:33.829Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6FvMytZPljyZ/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "22cuXuCxZiD0",
+      "accountUid": "public",
+      "templateName": "내지_월시작",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:30.065Z",
+      "updatedAt": "2026-03-20T07:35:33.553Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/22cuXuCxZiD0/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "24i8WZm836UJ",
+      "accountUid": "public",
+      "templateName": "내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:29.765Z",
+      "updatedAt": "2026-03-20T07:35:33.283Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/24i8WZm836UJ/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "7NlwVUuVzKLb",
+      "accountUid": "public",
+      "templateName": "간지",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:29.496Z",
+      "updatedAt": "2026-03-20T07:35:33.077Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/7NlwVUuVzKLb/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "7ku8dliMDsch",
+      "accountUid": "public",
+      "templateName": "표지",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "알림장C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:29.379Z",
+      "updatedAt": "2026-03-20T07:35:34.337Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/7ku8dliMDsch/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1GtF7gRSeKAX",
+      "accountUid": "public",
+      "templateName": "빈내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:29.199Z",
+      "updatedAt": "2026-03-20T07:35:32.615Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1GtF7gRSeKAX/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "16CwXBtvmgVN",
+      "accountUid": "public",
+      "templateName": "발행면",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:29.104Z",
+      "updatedAt": "2026-03-20T07:35:32.426Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/16CwXBtvmgVN/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1Tjgb7UpvetN",
+      "accountUid": "public",
+      "templateName": "내지_월시작",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:29.001Z",
+      "updatedAt": "2026-03-20T07:35:32.136Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1Tjgb7UpvetN/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "2rSDdrabgqlr",
+      "accountUid": "public",
+      "templateName": "내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:28.620Z",
+      "updatedAt": "2026-03-20T07:35:31.922Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/2rSDdrabgqlr/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3s2cjqIuh1vi",
+      "accountUid": "public",
+      "templateName": "간지",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:28.262Z",
+      "updatedAt": "2026-03-20T07:35:31.692Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3s2cjqIuh1vi/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "idbMArRHrKTo",
+      "accountUid": "public",
+      "templateName": "표지",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "알림장B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:28.153Z",
+      "updatedAt": "2026-03-20T07:35:32.874Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/idbMArRHrKTo/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3tQ8WjQZOgId",
+      "accountUid": "public",
+      "templateName": "빈내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:27.992Z",
+      "updatedAt": "2026-03-20T07:35:31.304Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3tQ8WjQZOgId/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "2DnDyL20yo5Y",
+      "accountUid": "public",
+      "templateName": "발행면",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:27.876Z",
+      "updatedAt": "2026-03-20T07:35:31.121Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/2DnDyL20yo5Y/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1aHHt1g7uHjw",
+      "accountUid": "public",
+      "templateName": "내지_월시작",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:27.769Z",
+      "updatedAt": "2026-03-20T05:24:33.202Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1aHHt1g7uHjw/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4OfPX6DXS0zU",
+      "accountUid": "public",
+      "templateName": "내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:27.369Z",
+      "updatedAt": "2026-03-20T07:35:30.797Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4OfPX6DXS0zU/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6UxZUzLqtdk2",
+      "accountUid": "public",
+      "templateName": "간지",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:27.000Z",
+      "updatedAt": "2026-03-20T07:35:30.539Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6UxZUzLqtdk2/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "39kySqmyRhhs",
+      "accountUid": "public",
+      "templateName": "표지",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "알림장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:26.898Z",
+      "updatedAt": "2026-03-20T07:35:31.525Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/39kySqmyRhhs/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6dyq4m8nFCcd",
+      "accountUid": "public",
+      "templateName": "빈내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:26.671Z",
+      "updatedAt": "2026-03-20T07:35:30.122Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6dyq4m8nFCcd/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5oRDpEfVerdC",
+      "accountUid": "public",
+      "templateName": "발행면",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:26.606Z",
+      "updatedAt": "2026-03-20T07:35:29.898Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5oRDpEfVerdC/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "79LHkH32MLH1",
+      "accountUid": "public",
+      "templateName": "내지_photo",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:26.506Z",
+      "updatedAt": "2026-03-20T05:24:32.439Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/79LHkH32MLH1/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4B0Nc4myZ17u",
+      "accountUid": "public",
+      "templateName": "내지_monthHeader",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:26.396Z",
+      "updatedAt": "2026-03-20T05:24:32.321Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4B0Nc4myZ17u/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "PorGJvT0oO7m",
+      "accountUid": "public",
+      "templateName": "간지",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:26.307Z",
+      "updatedAt": "2026-03-20T07:35:29.621Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/PorGJvT0oO7m/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "4Fy1mpIlm1ek",
+      "accountUid": "public",
+      "templateName": "표지",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "구글포토북C",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:26.220Z",
+      "updatedAt": "2026-03-20T07:35:30.302Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/4Fy1mpIlm1ek/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6qlvRxFJRX5q",
+      "accountUid": "public",
+      "templateName": "빈내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:26.081Z",
+      "updatedAt": "2026-03-20T07:35:29.226Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6qlvRxFJRX5q/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "5LgRgkQPRofX",
+      "accountUid": "public",
+      "templateName": "발행면",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:26.019Z",
+      "updatedAt": "2026-03-20T07:35:29.016Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/5LgRgkQPRofX/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6vUcK4Efowmh",
+      "accountUid": "public",
+      "templateName": "내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:25.914Z",
+      "updatedAt": "2026-03-20T05:24:31.785Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6vUcK4Efowmh/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1VR1XHEuXuQx",
+      "accountUid": "public",
+      "templateName": "간지",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:25.809Z",
+      "updatedAt": "2026-03-20T07:35:28.731Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1VR1XHEuXuQx/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6OhURGHdlI6y",
+      "accountUid": "public",
+      "templateName": "표지",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "구글포토북B",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:25.730Z",
+      "updatedAt": "2026-03-20T07:35:29.410Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6OhURGHdlI6y/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1zWsJbGghVO4",
+      "accountUid": "public",
+      "templateName": "빈내지",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:25.616Z",
+      "updatedAt": "2026-03-20T07:35:28.515Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1zWsJbGghVO4/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "6rXIB08mfqdb",
+      "accountUid": "public",
+      "templateName": "발행면",
+      "description": null,
+      "templateKind": "publish",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:25.554Z",
+      "updatedAt": "2026-03-20T05:24:31.287Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/6rXIB08mfqdb/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "3T09l6GEd0AL",
+      "accountUid": "public",
+      "templateName": "내지_dateB",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:25.450Z",
+      "updatedAt": "2026-03-20T05:24:31.162Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/3T09l6GEd0AL/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1vuzMfUnCkXS",
+      "accountUid": "public",
+      "templateName": "내지_dateA",
+      "description": null,
+      "templateKind": "content",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:25.341Z",
+      "updatedAt": "2026-03-20T05:24:31.044Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1vuzMfUnCkXS/layout.jpg",
+        "baseLayerOdd": "https://api-sandbox.sweetbook.com/templates_thumb/1vuzMfUnCkXS/base_layer_odd.png",
+        "baseLayerEven": "https://api-sandbox.sweetbook.com/templates_thumb/1vuzMfUnCkXS/base_layer_even.png"
+      }
+    },
+    {
+      "templateUid": "1ulGtuGsatHD",
+      "accountUid": "public",
+      "templateName": "간지",
+      "description": null,
+      "templateKind": "divider",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:25.225Z",
+      "updatedAt": "2026-03-20T05:24:30.915Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1ulGtuGsatHD/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "1Es0DP4oARn8",
+      "accountUid": "public",
+      "templateName": "표지",
+      "description": null,
+      "templateKind": "cover",
+      "category": null,
+      "theme": "구글포토북A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-03-12T11:02:25.124Z",
+      "updatedAt": "2026-03-30T05:55:48.265Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/1Es0DP4oARn8/layout.jpg"
+      }
+    },
+    {
+      "templateUid": "79yjMH3qRPly",
+      "accountUid": "public",
+      "templateName": "표지",
+      "description": "일기장A - 표지 (따뜻한 taupe #9A9088 배경, NanumMyeongjo 세리프, 앞표지 사진 1장)",
+      "templateKind": "cover",
+      "category": null,
+      "theme": "일기장A",
+      "bookSpecUid": "SQUAREBOOK_HC",
+      "bookSpecName": "고화질 스퀘어북 (하드커버)",
+      "specProfileUid": null,
+      "isPublic": true,
+      "status": "active",
+      "createdAt": "2026-02-24T02:33:52.767Z",
+      "updatedAt": "2026-03-20T07:35:34.792Z",
+      "thumbnails": {
+        "layout": "https://api-sandbox.sweetbook.com/templates_thumb/79yjMH3qRPly/layout.jpg"
+      }
+    }
+  ]
+}
